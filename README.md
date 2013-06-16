@@ -18,5 +18,7 @@ Full set of SVN binaries on the path, sull set of git binaries on the path.
 You will get a git repo called localhost with the import of the svn repo
 
 ## What use is this?
-See my post for the issue with formats - if you set the path up with the appropriate binaries,
+See my post for the issue with formats - 
+http://docmartinscodingstuff.blogspot.co.uk/2011/08/and-with-one-mighty-bound-he-was-free.html
+- if you set the path up with the appropriate binaries,
 you can manage an export of an svn repo without having to perform changes to the system config
